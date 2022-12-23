@@ -65,6 +65,7 @@ header .logo_img {
     align-items: center;
     background-color: #A0C8F9;
     padding-top: 60px;
+    scroll-behavior: smooth;
 }
 
 .container {
@@ -84,7 +85,8 @@ header .logo_img {
     position: relative;
     max-width: 400px;
     height: 145px;
-    background-color: #0C1E2B;
+    /* background-color: #0C1E2B; */
+    background-color: #141414;
     margin: 50px 40px;
     padding: 20px 15px;
     display: flex;
