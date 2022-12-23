@@ -1,10 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
 
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 header { 
     width: 100%;
@@ -19,25 +19,26 @@ header {
 .container_header {
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
 
 header .countries {
     display: flex;
+    text-decoration: none;
+    list-style: none;
 }
 
 header .logo_img {
-    width: 130px;
-    height: 130px;
+    width: 100px;
+    height: 100px;
+    margin-top: 6px;
 }
 
 .countries li {
-    text-decoration: none;
-    list-style: none;
     cursor: pointer;
     font-size: 20px;
     margin: 0 10px;
-    font-weight: 800;
-    line-height: 6.5;
+    font-weight: 500;
     position: relative;
 }
 
@@ -48,7 +49,7 @@ header .logo_img {
     position: absolute;
     left: 50%;
     width: 0%;
-    height: 4.5px;
+    height: 3px;
     background-color: #141414;
     transition: 0.2s;
 } 
@@ -57,3 +58,73 @@ header .logo_img {
     left: 0;
     width: 100%;
 } 
+
+#section1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #A0C8F9;
+    padding-top: 60px;
+}
+
+.container {
+    position: relative;
+    max-width: 1200px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 30px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.container .card {
+    position: relative;
+    max-width: 400px;
+    height: 145px;
+    background-color: #0C1E2B;
+    margin: 50px 40px;
+    padding: 20px 15px;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.5);
+    transition: 0.3s ease-in-out;
+    border-radius: 4px;
+}
+
+.container .card:hover {
+    height: 420px;
+}
+
+.container .card .imgBox {
+    position: relative;
+    width: 360px;
+    height: 210px;
+    top: -90px;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.2);
+}
+
+.container .card .imgBox img {
+    max-width: 100%;
+    border-radius: 4px;
+}
+
+.container .card .content {
+    position: relative;
+    margin-top: -140px;
+    padding: 10px 15px;
+    text-align: center;
+    color: #fff;
+    visibility: hidden;
+    opacity: 0;
+    transition: 0.3s ease-in-out;
+}
+
+.container .card:hover .content{
+    visibility: visible;
+    opacity: 1;
+    margin-top: -40px;
+    transition-delay: 0.3s;
+}
