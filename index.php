@@ -34,6 +34,9 @@
             </ul>
         </div>
     </header>
+    <section id="section0">
+
+    </section>
     <section id="section1">
         <div class="container">
             <div class="card">
@@ -78,6 +81,9 @@
     </section>
 
     <section>teste</section>
+
+    <?php include('footer.html'); ?>
+
 </body>
 <script src="js/script.js"></script>
 </html>
