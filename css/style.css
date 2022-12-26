@@ -70,7 +70,7 @@ header .logo_img {
 
 .container {
     position: relative;
-    max-width: 1200px;
+    max-width: 80%;
     margin: auto;
     display: flex;
     justify-content: center;
@@ -102,7 +102,7 @@ header .logo_img {
 
 .container .card .imgBox {
     position: relative;
-    width: 360px;
+    width: 80%;
     height: 210px;
     top: -90px;
     box-shadow: 0 5px 20px rgba(0, 0, 0, 0.2);

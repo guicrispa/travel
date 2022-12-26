@@ -50,30 +50,50 @@
             </div>
             <div class="card">
                 <div class="imgBox">
-                    <img src="https://res.cloudinary.com/dlsuopwkn/image/upload/v1671675718/preikestolen.jpg" alt="preikestolen">
+                    <img src="https://res.cloudinary.com/dlsuopwkn/image/upload/v1672024200/Trolltunga.jpg" alt="trolltunga">
                 </div>
                 <div class="content">
-                    <h2>Reynisfjara</h2>
+                    <h2>Trolltunga</h2>
                     <p>Lorem impsum Lorem impsum Lorem impsum Lorem impsum Lorem impsum Lorem impsum Lorem impsum Lorem impsum Lorem impsum Lorem impsum Lorem impsum Lorem impsum</p>
 
                 </div>
             </div>
             <div class="card">
                 <div class="imgBox">
-                    <img src="https://res.cloudinary.com/dlsuopwkn/image/upload/v1671675718/preikestolen.jpg" alt="preikestolen">
+                    <img src="https://res.cloudinary.com/dlsuopwkn/image/upload/v1672024199/tromso.jpg" alt="Tromsø">
                 </div>
                 <div class="content">
-                    <h2>Preikestolen</h2>
+                    <h2>Tromsø</h2>
                     <p>Lorem impsum Lorem impsum Lorem impsum Lorem impsum Lorem impsum Lorem impsum Lorem impsum Lorem impsum Lorem impsum Lorem impsum Lorem impsum Lorem impsum</p>
                 </div>
             </div>
 
             <div class="card">
                 <div class="imgBox">
-                    <img src="https://res.cloudinary.com/dlsuopwkn/image/upload/v1671675718/preikestolen.jpg" alt="preikestolen">
+                    <img src="https://res.cloudinary.com/dlsuopwkn/image/upload/v1672024197/kjeragbolten.jpg" alt="kjeragbolten">
                 </div>
                 <div class="content">
-                    <h2>Preikestolen</h2>
+                    <h2>Kjeragbolten</h2>
+                    <p>Lorem impsum Lorem impsum Lorem impsum Lorem impsum Lorem impsum Lorem impsum Lorem impsum Lorem impsum Lorem impsum Lorem impsum Lorem impsum Lorem impsum</p>
+                </div>
+            </div>
+
+            <div class="card">
+                <div class="imgBox">
+                    <img src="https://res.cloudinary.com/dlsuopwkn/image/upload/v1672024309/Atlanterhavsvegen.jpg" alt="Atlanterhavsvegen">
+                </div>
+                <div class="content">
+                    <h2>Atlanterhavsvegen</h2>
+                    <p>Lorem impsum Lorem impsum Lorem impsum Lorem impsum Lorem impsum Lorem impsum Lorem impsum Lorem impsum Lorem impsum Lorem impsum Lorem impsum Lorem impsum</p>
+                </div>
+            </div>
+
+            <div class="card">
+                <div class="imgBox">
+                    <img src="https://res.cloudinary.com/dlsuopwkn/image/upload/v1672024197/snowhotel.jpg" alt="snowhotel">
+                </div>
+                <div class="content">
+                    <h2>Snowhotel Kirkenes</h2>
                     <p>Lorem impsum Lorem impsum Lorem impsum Lorem impsum Lorem impsum Lorem impsum Lorem impsum Lorem impsum Lorem impsum Lorem impsum Lorem impsum Lorem impsum</p>
                 </div>
             </div>
@@ -82,7 +102,7 @@
 
     <section>teste</section>
 
-    <?php include('footer.html'); ?>
+    <?php include('footer.php'); ?>
 
 </body>
 <script src="js/script.js"></script>
