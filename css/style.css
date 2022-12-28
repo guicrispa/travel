@@ -102,8 +102,8 @@ header .logo_img {
 
 .container .card .imgBox {
     position: relative;
-    width: 80%;
-    height: 210px;
+    width: 100%;
+    height: 150px;
     top: -90px;
     box-shadow: 0 5px 20px rgba(0, 0, 0, 0.2);
 }
@@ -111,6 +111,9 @@ header .logo_img {
 .container .card .imgBox img {
     max-width: 100%;
     border-radius: 4px;
+    /* height: 127px;
+    width: 191px; 
+    deixar as imagens nessas proporções*/
 }
 
 .container .card .content {
