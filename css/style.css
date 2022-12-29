@@ -59,6 +59,14 @@ header .logo_img {
     width: 100%;
 } 
 
+/*section presentation*/
+
+#section0 {
+    padding: 30px 80px;
+}
+
+/* section places*/
+
 #section1 {
     display: flex;
     justify-content: center;
@@ -70,7 +78,7 @@ header .logo_img {
 
 .container {
     position: relative;
-    max-width: 80%;
+    max-width: 90%;
     margin: auto;
     display: flex;
     justify-content: center;
@@ -118,7 +126,6 @@ header .logo_img {
 
 .container .card .content {
     position: relative;
-    margin-top: -140px;
     padding: 10px 15px;
     text-align: center;
     color: #fff;
@@ -127,9 +134,12 @@ header .logo_img {
     transition: 0.3s ease-in-out;
 }
 
+.container .card .content p {
+    text-align: justify;
+}
+
 .container .card:hover .content{
     visibility: visible;
     opacity: 1;
-    margin-top: -40px;
     transition-delay: 0.3s;
 }
