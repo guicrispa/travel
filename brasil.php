@@ -1,6 +1,6 @@
- <!-- URL AMIGÁVEL PHP - TUTORIAL: https://celke.com.br/artigo/como-criar-url-amigavel-com-php -->
+
 <?php include('head.php'); ?>
-    <header id="main" class="style_header">
+    <header id="brasil" class="style_header">
         <div class="container_header">
             <a href="index.php"><img class="logo_img" src="https://res.cloudinary.com/dlsuopwkn/image/upload/v1671721545/umjovemincentivandojovens.png" alt="logo"></a>
             <ul class="countries" id="home">

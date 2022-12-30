@@ -19,7 +19,9 @@
     <meta name="description" content="Guilherme Crispim - Site de lugares onde quero viajar usando HTML, CSS e JS">
     <title>Minhas futuras viagens</title>
     <link rel="stylesheet" href="css/style.css"> 
+    <link rel="stylesheet" href="css/styleTela.css"> 
+    <link rel="stylesheet" href="css/countries.css"> 
     <link rel="icon" href="https://res.cloudinary.com/dlsuopwkn/image/upload/v1672401895/logoicon.png">
 </head>
 <body>
-    <a href="#main" class="skip-to-main-content-link">Saltar para o conteúdo principal</a>
+    <a href="#testandooo" class="skip-to-main-content-link">Saltar para o conteúdo principal</a>

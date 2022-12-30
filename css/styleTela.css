@@ -1,0 +1,14 @@
+@media (min-width: 1201px) {
+    .container .card {
+        margin: 80px 40px;
+        height: 245px;
+    }
+
+    .container .card:hover {
+        height: 400px;
+    }
+
+    .container .card .content {
+        margin-top: 20px;
+    }
+}

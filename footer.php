@@ -23,7 +23,7 @@
         border-radius: 6px;
     }
 
-    footer p ion-icon:hover {
+    footer p a ion-icon:hover {
         background: #fff;
         color: #272a2f;
         transition: 0.5s;
