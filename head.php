@@ -24,4 +24,4 @@
     <link rel="icon" href="https://res.cloudinary.com/dlsuopwkn/image/upload/v1672401895/logoicon.png">
 </head>
 <body>
-    <a href="#testandooo" class="skip-to-main-content-link">Saltar para o conteúdo principal</a>
+    <a href="#home" class="skip-to-main-content-link">Saltar para o conteúdo principal</a>

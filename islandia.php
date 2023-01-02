@@ -6,72 +6,72 @@
             <ul class="countries" id="home">
                 <li><a href="norway.php">Noruega</a></li>
                 <li><a href="brasil.php">Brasil</a></li>
-                <li><a href="australia.php">Austrália</a></li>
                 <li><a href="islandia.php">Islândia</a></li>
-                <li><a href="canada.php">Canadá</a></li>
+                <!-- <li><a href="australia.php">Austrália</a></li>
+                <li><a href="canada.php">Canadá</a></li> -->
             </ul>
         </div>
     </header>
     <section id="section0">
-        <h1>Apresentação</h1>
+        <h1>Apresentação - card falando do país</h1>
     </section>
     <section id="section1">
         <div class="container">
             <div class="card">
                 <div class="imgBox">
-                    <img src="https://res.cloudinary.com/dlsuopwkn/image/upload/c_scale,h_3264,w_4928/v1671675718/preikestolen.jpg" alt="preikestolen">
+                    <img src="https://res.cloudinary.com/dlsuopwkn/image/upload/c_scale,h_3264,w_4928/v1672624395/beachReynisfjara_vhbjsr.jpg" alt="preikestolen">
                 </div>
                 <div class="content">
-                    <h2>Preikestolen</h2>
+                    <h2>Reynisfjara</h2>
                     <p>Também é conhecida como Pulpit Rock, Preikestolen é uma falésia de 604 metros de desnível que se ergue sobre o Fiorde de Lyse, em frente ao platô Kjerag, em Forsand, no sudoeste da Noruega.</p>
                 </div>
             </div>
             <div class="card">
                 <div class="imgBox">
-                    <img src="https://res.cloudinary.com/dlsuopwkn/image/upload/v1672024200/Trolltunga.jpg" alt="trolltunga">
+                    <img src="https://res.cloudinary.com/dlsuopwkn/image/upload/c_scale,h_3264,w_4928/v1672625282/Hallgr%C3%ADmskirkja.jpg" alt="trolltunga">
                 </div>
                 <div class="content">
-                    <h2>Trolltunga</h2>
+                    <h2>Hallgrímskirkja</h2>
                     <p>Trolltunga é uma rocha horizontal esticada a 700 metros de altura, no sudoeste da Noruega. O nome significa Língua do Troll, pela semelhança da rocha com uma língua estendida.</p>
 
                 </div>
             </div>
             <div class="card">
                 <div class="imgBox">
-                    <img src="https://res.cloudinary.com/dlsuopwkn/image/upload/c_scale,h_3264,w_4928/v1672024199/tromso.jpg" alt="Tromsø">
+                    <img src="https://res.cloudinary.com/dlsuopwkn/image/upload/c_scale,h_3264,w_4928/v1672625958/bluelagoon.jpg" alt="Tromsø">
                 </div>
                 <div class="content">
-                    <h2>Tromsø</h2>
+                    <h2>Blue Lagoon</h2>
                     <p>Tromsø, a linda cidade de incríveis fenômenos da natureza como a Aurora Boreal e do sol da meia-noite, é a maior cidade do norte da Noruega e está localizada ao leste da ilha de Tromsøya.</p>
                 </div>
             </div>
 
             <div class="card">
                 <div class="imgBox">
-                    <img src="https://res.cloudinary.com/dlsuopwkn/image/upload/c_scale,h_3264,w_4928/v1672024197/kjeragbolten.jpg" alt="kjeragbolten">
+                    <img src="https://res.cloudinary.com/dlsuopwkn/image/upload/c_scale,h_3264,w_4928/v1672626592/icecave_vatnajokull.jpg" alt="kjeragbolten">
                 </div>
                 <div class="content">
-                    <h2>Kjeragbolten</h2>
+                    <h2>Crystal Ice Cave</h2>
                     <p>Kjeragbolten é uma rocha de 5 m³, presa em uma fenda das montanhas Kjerag, conhecida por trilhas e escaladas, a 1.084 metros acima do fiorde Lysefjorden, localizada no sul da Noruega.</p>
                 </div>
             </div>
 
             <div class="card">
                 <div class="imgBox">
-                    <img src="https://res.cloudinary.com/dlsuopwkn/image/upload/c_scale,h_3264,w_4928/v1672024309/Atlanterhavsvegen.jpg" alt="Atlanterhavsvegen">
+                    <img src="https://res.cloudinary.com/dlsuopwkn/image/upload/c_scale,h_3264,w_4928/v1672627128/Seljalandsfoss_bazp7o.jpg" alt="Atlanterhavsvegen">
                 </div>
                 <div class="content">
-                    <h2>Atlanterhavsvegen</h2>
+                    <h2>Seljalandsfoss</h2>
                     <p>Atlanterhavsvegen, a Estrada do Atlântico, é uma experiência única que fica no Norte da Noruega com pontes que se arqueiam entre as ilhotas e recifes ao longo da áspera Baía de Hustadvika.</p>
                 </div>
             </div>
 
             <div class="card">
                 <div class="imgBox">
-                    <img src="https://res.cloudinary.com/dlsuopwkn/image/upload/v1672321549/lofoten_soccerfield.png" alt="Lofoten Islands">
+                    <img src="https://res.cloudinary.com/dlsuopwkn/image/upload/c_scale,h_3264,w_4928/v1672627496/Kirkjufell_jrh69l.jpg" alt="Lofoten Islands">
                 </div>
                 <div class="content">
-                    <h2>Lofoten Islands</h2>
+                    <h2>Kirkjufell</h2>
                     <p>Localizadas em Nordland e bem acima do círculo ártico, as Ilhas Lofoten têm paisagens incríveis, formadas pelos oceanos, picos acidentados, praias de areia branca e vilas pesqueiras.
 </p>
                 </div>
