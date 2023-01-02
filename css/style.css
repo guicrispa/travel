@@ -126,7 +126,7 @@ header .logo_img {
     max-width: 400px;
     height: 145px;
     /* background-color: #0C1E2B; */
-    background-color: #141414;
+    background-color: #f6f8fa;
     margin: 50px 40px;
     /*margin: 80px 40px; em telas muito grandes*/
     padding: 20px 15px;
@@ -162,7 +162,7 @@ header .logo_img {
     position: relative;
     padding: 10px 15px;
     text-align: center;
-    color: #fff;
+    color: #141414;
     visibility: hidden;
     opacity: 0;
     transition: 0.3s ease-in-out;

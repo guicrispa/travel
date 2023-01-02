@@ -23,7 +23,7 @@
                 </div>
                 <div class="content">
                     <h2>Reynisfjara</h2>
-                    <p>Também é conhecida como Pulpit Rock, Preikestolen é uma falésia de 604 metros de desnível que se ergue sobre o Fiorde de Lyse, em frente ao platô Kjerag, em Forsand, no sudoeste da Noruega.</p>
+                    <p>Reynisfjara é uma bela praia de areia preta (preta por conta da atividade vulcânica no país) famosa localizada perto da pequena vila de pescadores Vík, na costa sul da Islândia.</p>
                 </div>
             </div>
             <div class="card">
@@ -32,7 +32,7 @@
                 </div>
                 <div class="content">
                     <h2>Hallgrímskirkja</h2>
-                    <p>Trolltunga é uma rocha horizontal esticada a 700 metros de altura, no sudoeste da Noruega. O nome significa Língua do Troll, pela semelhança da rocha com uma língua estendida.</p>
+                    <p>A Hallgrímskirkja é uma igreja luterana ícone da Islândia e da capital Reykjavík, caracterizada por elementos religiosos, arquitetura de patrimônio e grandiosidade da construção.</p>
 
                 </div>
             </div>
