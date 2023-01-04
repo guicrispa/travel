@@ -42,7 +42,7 @@
                 </div>
                 <div class="content">
                     <h2>Blue Lagoon</h2>
-                    <p>Tromsø, a linda cidade de incríveis fenômenos da natureza como a Aurora Boreal e do sol da meia-noite, é a maior cidade do norte da Noruega e está localizada ao leste da ilha de Tromsøya.</p>
+                    <p>A Lagoa Azul da Islândia, localizada em Reykjavík, é uma enorme piscina termal que tem essa chamativa cor azul celeste devido às abundantes partículas de sílica na sua composição</p>
                 </div>
             </div>
 
@@ -52,7 +52,7 @@
                 </div>
                 <div class="content">
                     <h2>Crystal Ice Cave</h2>
-                    <p>Kjeragbolten é uma rocha de 5 m³, presa em uma fenda das montanhas Kjerag, conhecida por trilhas e escaladas, a 1.084 metros acima do fiorde Lysefjorden, localizada no sul da Noruega.</p>
+                    <p>As cavernas de gelo (também chamadas de cavernas de cristal) de Vatnajökull, compõem a maior massa de gelo da Europa e impressionam pelos tons de azul e branco que se intercalam.</p>
                 </div>
             </div>
 
@@ -62,7 +62,7 @@
                 </div>
                 <div class="content">
                     <h2>Seljalandsfoss</h2>
-                    <p>Atlanterhavsvegen, a Estrada do Atlântico, é uma experiência única que fica no Norte da Noruega com pontes que se arqueiam entre as ilhotas e recifes ao longo da áspera Baía de Hustadvika.</p>
+                    <p>É uma cachoeira com mais de 60m de altura localizada em uma paisagem espetacular no sul da Islândia. Você pode passar por trás dela através de um caminho escorregadio, mas seguro.</p>
                 </div>
             </div>
 
@@ -72,8 +72,7 @@
                 </div>
                 <div class="content">
                     <h2>Kirkjufell</h2>
-                    <p>Localizadas em Nordland e bem acima do círculo ártico, as Ilhas Lofoten têm paisagens incríveis, formadas pelos oceanos, picos acidentados, praias de areia branca e vilas pesqueiras.
-</p>
+                    <p>A Kirkjufell é uma montanha de 463m de altura na costa norte da península de Snæfellsnes, perto da cidade de Grundarfjördur. É considerada a montanha mais fotografada do país.</p>
                 </div>
             </div>
         </div>
