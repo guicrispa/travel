@@ -13,7 +13,13 @@
         </div>
     </header>
     <section id="section0">
-        <h1>Slideshow - card de cada país</h1>
+        <div class="blog-card">
+            <div class="inner-part">
+                <label for="" class="img">
+                    <img src="" alt="">
+                </label>
+            </div>
+        </div>
     </section>
     <section id="section1">
         <div class="container">

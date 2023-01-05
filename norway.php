@@ -6,8 +6,8 @@
             <ul class="countries" id="home">
                 <li><a href="norway.php">Noruega</a></li>
                 <li><a href="brasil.php">Brasil</a></li>
-                <li><a href="australia.php">Austrália</a></li>
-                <!-- <li><a href="islandia.php">Islândia</a></li>
+                <li><a href="islandia.php">Islândia</a></li>
+                <!-- <li><a href="australia.php">Austrália</a></li>
                 <li><a href="canada.php">Canadá</a></li> -->
             </ul>
         </div>

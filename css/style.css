@@ -102,7 +102,7 @@ header .logo_img {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #A0C8F9;
+    background: linear-gradient(#A0C8F9, #2e6fbe);
     padding-top: 60px;
     scroll-behavior: smooth;
     border-top: 3px solid #1D2A3F;
