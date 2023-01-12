@@ -1,4 +1,11 @@
 @media (min-width: 1201px) {
+
+    /*section cards*/
+    .blog-card {
+        max-width: 65%;
+    }
+
+    /* section places*/
     .container .card {
         margin: 80px 40px;
         height: 245px;
