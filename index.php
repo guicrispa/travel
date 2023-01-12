@@ -16,7 +16,7 @@
         <div class="blog-card">
             <div class="inner-part">
                 <label for="" class="img">
-                    <img src="" alt="">
+                    <img src="https://res.cloudinary.com/dlsuopwkn/image/upload/v1673017861/norwayflag.png" alt="Norway Flag">
                 </label>
             </div>
         </div>
@@ -78,8 +78,7 @@
                 </div>
                 <div class="content">
                     <h2>Lofoten Islands</h2>
-                    <p>Localizadas em Nordland e bem acima do círculo ártico, as Ilhas Lofoten têm paisagens incríveis, formadas pelos oceanos, picos acidentados, praias de areia branca e vilas pesqueiras.
-</p>
+                    <p>Localizadas em Nordland e bem acima do círculo ártico, as Ilhas Lofoten têm paisagens incríveis, formadas pelos oceanos, picos acidentados, praias de areia branca e vilas pesqueiras.</p>
                 </div>
             </div>
         </div>
