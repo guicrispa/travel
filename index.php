@@ -18,6 +18,12 @@
                 <label for="" class="img">
                     <img src="https://res.cloudinary.com/dlsuopwkn/image/upload/v1673017861/norwayflag.png" alt="Norway Flag">
                 </label>
+                <div class="content">
+                    <span>26 January 2023</span>
+                    <div class="title">Norway</div>
+                    <div class="text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius aut quisquam hic sapiente quibusdam laboriosam dolores, odio molestias pariatur maiores.</div>
+                    <button>parei o vídeo no minuto 5:53</button> 
+                </div>
             </div>
         </div>
     </section>
