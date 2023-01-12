@@ -5,8 +5,8 @@
             <a href="index.php"><img class="logo_img" src="https://res.cloudinary.com/dlsuopwkn/image/upload/v1671721545/umjovemincentivandojovens.png" alt="logo"></a>
             <ul class="countries" id="home">
                 <li><a href="norway.php">Noruega</a></li>
-                <li><a href="brasil.php">Brasil</a></li>
                 <li><a href="islandia.php">Islândia</a></li>
+                <li><a href="brasil.php">Brasil</a></li>
                 <!-- <li><a href="australia.php">Austrália</a></li>
                 <li><a href="canada.php">Canadá</a></li> -->
             </ul>
@@ -19,9 +19,34 @@
                     <img src="https://res.cloudinary.com/dlsuopwkn/image/upload/v1673017861/norwayflag.png" alt="Norway Flag">
                 </label>
                 <div class="content">
-                    <span>26 January 2023</span>
-                    <div class="title">Norway</div>
-                    <div class="text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius aut quisquam hic sapiente quibusdam laboriosam dolores, odio molestias pariatur maiores.</div>
+                    <h1 class="title">Noruega</h1>
+                    <div class="text">A Noruega é um extenso país localizado na Escandinávia que abrange montanhas, geleiras, ilhas, lagos e vales rochosos. É considerado o país com a maior qualidade de vida do mundo, líder no ranking de IDH (Índice de Desenvolvimento Humano), e é um atrativo paradisíaco para turistas de todo o mundo.</div>
+                    <button>parei o vídeo no minuto 5:53</button> 
+                </div>
+            </div>
+        </div>
+
+        <div class="blog-card">
+            <div class="inner-part">
+                <label for="" class="img">
+                    <img src="https://res.cloudinary.com/dlsuopwkn/image/upload/v1673017897/icelandflag.png" alt="Iceland Flag">
+                </label>
+                <div class="content">
+                <h1 class="title">Islândia</h1>
+                    <div class="text">A Noruega é um extenso país localizado na Escandinávia que abrange montanhas, geleiras, ilhas, lagos e vales rochosos. É considerado o país com a maior qualidade de vida do mundo, líder no ranking de IDH (Índice de Desenvolvimento Humano), e é um atrativo paradisíaco para turistas de todo o mundo.</div>
+                    <button>parei o vídeo no minuto 5:53</button> 
+                </div>
+            </div>
+        </div>
+
+        <div class="blog-card">
+            <div class="inner-part">
+                <label for="" class="img">
+                    <img src="https://res.cloudinary.com/dlsuopwkn/image/upload/v1673017896/brasilflag.png" alt="Brazil Flag">
+                </label>
+                <div class="content">
+                <h1 class="title">Brasil</h1>
+                    <div class="text">A Noruega é um extenso país localizado na Escandinávia que abrange montanhas, geleiras, ilhas, lagos e vales rochosos. É considerado o país com a maior qualidade de vida do mundo, líder no ranking de IDH (Índice de Desenvolvimento Humano), e é um atrativo paradisíaco para turistas de todo o mundo.</div>
                     <button>parei o vídeo no minuto 5:53</button> 
                 </div>
             </div>

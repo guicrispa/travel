@@ -95,21 +95,22 @@ header .logo_img {
     padding: 30px 80px;
     border-top: 3px solid #A0C8F9;
     display: flex;
+    flex-direction: column;
     align-items: center;
     justify-content: center;
-    height: 100vh;
     background: linear-gradient(145deg, #f3f4f7, #ecedf0);
 }
 
 .blog-card {
-    position: absolute;
+    position: relative;
     height: 370px;
     width: 95%;
-    max-width: 85%;
+    max-width: 65%;
     margin: auto;
     background: #fff;
-    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.5);
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.2);
     border-radius: 20px;
+    margin: 2em 0;
 }
 
 .blog-card .inner-part {
@@ -117,12 +118,12 @@ header .logo_img {
     align-items: center;
     justify-content: center;
     padding: 0 25px;
-    height: 360px;
+    height: 370px;
 }
 
 .inner-part .img {
-    height: 150px;
-    width: 180px;
+    height: 200px;
+    width: 260px;
     flex-shrink: 0;
 }
 
@@ -131,9 +132,22 @@ header .logo_img {
     width: 100%;
     object-fit: cover;
     border-radius: 20px;
-    margin-left: -50px;
+    margin-left: -80px;
 }
 
+.inner-part .content {
+    margin-left: -40px;
+    text-align: justify;
+}
+
+.inner-part .content h1 {
+    font-size: 30px;
+}
+
+.inner-part .content .text {
+    padding: 10px 0;
+    font-size: 18px;
+}
 
 /* section places*/
 
