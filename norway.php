@@ -13,7 +13,18 @@
         </div>
     </header>
     <section id="section0">
-        <h1>Apresentação - card falando do país</h1>
+        <h1>Vamos conhecer a Noruega?</h1>
+        <div class="blog-card">
+            <div class="inner-part">
+                <label for="" class="img">
+                    <img src="https://res.cloudinary.com/dlsuopwkn/image/upload/v1673017861/norwayflag.png" alt="Norway Flag">
+                </label>
+                <div class="content">
+                    <h1 class="title">Noruega</h1>
+                    <div class="text">A Noruega é um extenso país localizado na Escandinávia que abrange montanhas, geleiras, ilhas, lagos e vales rochosos. É considerado o país com a maior qualidade de vida do mundo, líder no ranking de IDH (Índice de Desenvolvimento Humano), e é um atrativo paradisíaco para turistas de todo o mundo.</div>
+                </div>
+            </div>
+        </div>
     </section>
     <section id="section1">
         <div class="container">

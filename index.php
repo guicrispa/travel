@@ -13,6 +13,7 @@
         </div>
     </header>
     <section id="section0">
+        <h1>Países onde mais quero viajar :D</h1>
         <div class="blog-card">
             <div class="inner-part">
                 <label for="" class="img">
@@ -33,7 +34,7 @@
                 </label>
                 <div class="content">
                 <h1 class="title">Islândia</h1>
-                    <div class="text">A Noruega é um extenso país localizado na Escandinávia que abrange montanhas, geleiras, ilhas, lagos e vales rochosos. É considerado o país com a maior qualidade de vida do mundo, líder no ranking de IDH (Índice de Desenvolvimento Humano), e é um atrativo paradisíaco para turistas de todo o mundo.</div>
+                    <div class="text">A Islândia, país insular nórdico, tem uma paisagem exuberante, com vulcões, gêiseres, fontes termais e campos de lava. Suas imensas geleiras estão protegidas nos parques nacionais Vatnajökull e Snæfellsjökull. A maioria da população vive na capital, Reykjavik, abastecida por energia geotérmica e sede dos museus Nacional e Saga, que traçam a história viking da Islândia.</div>
                     <button>parei o vídeo no minuto 5:53</button> 
                 </div>
             </div>

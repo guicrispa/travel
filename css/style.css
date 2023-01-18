@@ -99,6 +99,11 @@ header .logo_img {
     align-items: center;
     justify-content: center;
     background: linear-gradient(145deg, #f3f4f7, #ecedf0);
+    min-height: 100vh;
+}
+
+#section0 h1 {
+    font-size: 30px;
 }
 
 .blog-card {

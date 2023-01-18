@@ -13,7 +13,18 @@
         </div>
     </header>
     <section id="section0">
-        <h1>Apresentação - card falando do país</h1>
+        <h1>Vamos conhecer a Islândia?</h1>
+        <div class="blog-card">
+            <div class="inner-part">
+                <label for="" class="img">
+                    <img src="https://res.cloudinary.com/dlsuopwkn/image/upload/v1673017897/icelandflag.png" alt="Iceland Flag">
+                </label>
+                <div class="content">
+                <h1 class="title">Islândia</h1>
+                    <div class="text">A Islândia, país insular nórdico, tem uma paisagem exuberante, com vulcões, gêiseres, fontes termais e campos de lava. Suas imensas geleiras estão protegidas nos parques nacionais Vatnajökull e Snæfellsjökull. A maioria da população vive na capital, Reykjavik, abastecida por energia geotérmica e sede dos museus Nacional e Saga, que traçam a história viking da Islândia.</div>
+                </div>
+            </div>
+        </div>
     </section>
     <section id="section1">
         <div class="container">
