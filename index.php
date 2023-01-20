@@ -46,9 +46,14 @@
                     <img src="https://res.cloudinary.com/dlsuopwkn/image/upload/v1673017896/brasilflag.png" alt="Brazil Flag">
                 </label>
                 <div class="content">
-                <h1 class="title">Brasil</h1>
-                    <div class="text">A Noruega é um extenso país localizado na Escandinávia que abrange montanhas, geleiras, ilhas, lagos e vales rochosos. É considerado o país com a maior qualidade de vida do mundo, líder no ranking de IDH (Índice de Desenvolvimento Humano), e é um atrativo paradisíaco para turistas de todo o mundo.</div>
-                    <button>parei o vídeo no minuto 5:53</button> 
+                    <h1 class="title">Brasil</h1>
+                    <div class="text">O Brasil dispensa apresentações. No entanto, é um país extremamente subestimado quando falamos de lugares, onde há uma enorme diversidade paisagística e cultural ao redor dos seus quatro cantos. O maior país da América do Sul estende-se da Bacia Amazônica, no norte, até os vinhedos e as Cataratas do Iguaçu, no sul. Explore mais a riqueza de diferentes lugares ao redor do nosso país abaixo.</div>
+                    <div class="botao">
+                        <a href="">
+                            <span>Saiba mais</span>
+                            <div class="liquid"></div>
+                        </a>
+                    </div>
                 </div>
             </div>
         </div>
