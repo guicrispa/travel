@@ -4,7 +4,7 @@
         background: linear-gradient(#26344b, #1D2A3F);
         padding: 30px 80px;
         color: #f3fafa;
-        border-top: 2px solid #A0C8F9;
+        border-top: 5px solid #A0C8F9;
     }
 
     footer p,

@@ -154,15 +154,29 @@ header .logo_img {
     font-size: 18px;
 }
 
-/* .botao a {
-    background: rgb(0, 162, 255);
-    box-shadow: inset 0 0 50px rgba(255, 255, 255, 0.5);
+.content
+
+.botao {
+    display: inline-flex;
+    font-size: 20px;
+    padding: 5px 20px;
+    border-radius: 20px;
+    color: white;
+    font-weight: 700;
     text-decoration: none;
-    font-size: 19px;
-    text-transform: uppercase;
-    padding: 10px;
-    border-radius: 10px;
-} */
+    cursor: pointer;
+    background: #2360aa;
+}
+
+.botao:hover {
+    background: #2e6fbe;
+    transition: 0.4s;
+}
+
+.botao:active {
+    background: #387dd1;
+    transition: 0.4s;
+}
 
 /* section places*/
 

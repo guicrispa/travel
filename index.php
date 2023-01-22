@@ -13,6 +13,7 @@
         </div>
     </header>
     <section id="section0">
+        <!-- https://www.youtube.com/watch?v=K_Ru5IsVm-A&t=906s - video card slider blog -->
         <h1>Países onde mais quero viajar :D</h1>
         <div class="blog-card">
             <div class="inner-part">
@@ -22,7 +23,10 @@
                 <div class="content">
                     <h1 class="title">Noruega</h1>
                     <div class="text">A Noruega é um extenso país localizado na Escandinávia que abrange montanhas, geleiras, ilhas, lagos e vales rochosos. É considerado o país com a maior qualidade de vida do mundo, líder no ranking de IDH (Índice de Desenvolvimento Humano), e é um atrativo paradisíaco para turistas de todo o mundo.</div>
-                    <button>parei o vídeo no minuto 5:53</button> 
+                    <a href="norway.php" class="botao">
+                        <!-- <span class="botao">Saiba mais</span> -->
+                        Saiba mais
+                    </a>
                 </div>
             </div>
         </div>
@@ -34,8 +38,11 @@
                 </label>
                 <div class="content">
                 <h1 class="title">Islândia</h1>
-                    <div class="text">A Islândia, país insular nórdico, tem uma paisagem exuberante, com vulcões, gêiseres, fontes termais e campos de lava. Suas imensas geleiras estão protegidas nos parques nacionais Vatnajökull e Snæfellsjökull. A maioria da população vive na capital, Reykjavik, abastecida por energia geotérmica e sede dos museus Nacional e Saga, que traçam a história viking da Islândia.</div>
-                    <button>parei o vídeo no minuto 5:53</button> 
+                    <div class="text">A Islândia, país insular nórdico, tem uma paisagem exuberante, com vulcões, gêiseres, fontes termais, campos de lava e imensas geleiras. A maioria da população vive na capital, Reykjavik, abastecida por energia geotérmica e sede da "Catedral da capital" e dos museus Nacional e Saga, que traçam a história viking da Islândia.</div>
+                    <a href="islandia.php" class="botao">
+                        <!-- <span class="botao">Saiba mais</span> -->
+                        Saiba mais
+                    </a>
                 </div>
             </div>
         </div>
@@ -47,18 +54,16 @@
                 </label>
                 <div class="content">
                     <h1 class="title">Brasil</h1>
-                    <div class="text">O Brasil dispensa apresentações. No entanto, é um país extremamente subestimado quando falamos de lugares, onde há uma enorme diversidade paisagística e cultural ao redor dos seus quatro cantos. O maior país da América do Sul estende-se da Bacia Amazônica, no norte, até os vinhedos e as Cataratas do Iguaçu, no sul. Explore mais a riqueza de diferentes lugares ao redor do nosso país abaixo.</div>
-                    <div class="botao">
-                        <a href="">
-                            <span>Saiba mais</span>
-                            <div class="liquid"></div>
-                        </a>
-                    </div>
+                    <div class="text">O Brasil dispensa apresentações. No entanto, o que muitos de nós não exploramos é que há uma enorme diversidade paisagística e cultural em seus quatro cantos. O maior país da América do Sul estende-se da Bacia Amazônica, no norte, até as Cataratas do Iguaçu, no sul. Explore mais a riqueza de diferentes lugares ao redor do nosso país abaixo.</div>
+                    <a href="brasil.php" class="botao">
+                        <!-- <span class="botao">Saiba mais</span> -->
+                        Saiba mais
+                    </a>
                 </div>
             </div>
         </div>
     </section>
-    <section id="section1">
+    <!-- <section id="section1">
         <div class="container">
             <div class="card">
                 <div class="imgBox">
@@ -119,6 +124,6 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
 
     <?php include('footer.php'); ?>
