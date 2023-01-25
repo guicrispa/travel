@@ -21,7 +21,7 @@
                 </label>
                 <div class="content">
                 <h1 class="title">Brasil</h1>
-                    <div class="text">A Noruega é um extenso país localizado na Escandinávia que abrange montanhas, geleiras, ilhas, lagos e vales rochosos. É considerado o país com a maior qualidade de vida do mundo, líder no ranking de IDH (Índice de Desenvolvimento Humano), e é um atrativo paradisíaco para turistas de todo o mundo.</div>
+                    <div class="text">O Brasil dispensa apresentações. No entanto, o que muitos de nós não exploramos é que há uma enorme diversidade paisagística e cultural em seus quatro cantos. O maior país da América do Sul estende-se da Bacia Amazônica, no norte, até as Cataratas do Iguaçu, no sul. Explore mais a riqueza de diferentes lugares ao redor do nosso país abaixo.</div>
                 </div>
             </div>
         </div>

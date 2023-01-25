@@ -25,6 +25,16 @@
                 </div>
             </div>
         </div>
+        <div class="buttons_countries">
+            <a href="islandia.php" class="botao icelandbutton">
+                <!-- <span class="botao">Saiba mais</span> -->
+                Conheça também a Islândia
+            </a>
+            <a href="brasil.php" class="botao brazilbutton">
+                <!-- <span class="botao">Saiba mais</span> -->
+                Conheça ainda mais o Brasil
+            </a>
+        </div>
     </section>
     <section id="section1">
         <div class="container">

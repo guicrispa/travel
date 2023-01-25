@@ -1,6 +1,11 @@
 @media (min-width: 1201px) {
 
     /*section cards*/
+
+    #section0 h1 {
+        font-size: 45px;
+    }
+
     .blog-card {
         max-width: 65%;
     }

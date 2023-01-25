@@ -103,7 +103,7 @@ header .logo_img {
 }
 
 #section0 h1 {
-    font-size: 30px;
+    font-size: 35px;
 }
 
 .blog-card {
@@ -154,8 +154,6 @@ header .logo_img {
     font-size: 18px;
 }
 
-.content
-
 .botao {
     display: inline-flex;
     font-size: 20px;
@@ -168,13 +166,57 @@ header .logo_img {
     background: #2360aa;
 }
 
-.botao:hover {
+.knowmore:hover {
     background: #2e6fbe;
     transition: 0.4s;
 }
 
-.botao:active {
+.knowmore:active {
     background: #387dd1;
+    transition: 0.4s;
+}
+
+.buttons_countries a{
+    margin: 0 10px;
+}
+
+.icelandbutton {
+    background: #02529C;
+    padding: 5px 20px;
+    font-weight: 700;
+    font-size: 20px;
+    border-radius: 15px;
+    text-decoration: none;
+    color: white;
+}
+
+.icelandbutton:hover {
+    background: #0559a7;
+    transition: 0.4s;
+}
+
+.icelandbutton:active {
+    background: #0862b6;
+    transition: 0.4s;
+}
+
+.brazilbutton {
+    background: #114b02;
+    padding: 5px 20px;
+    font-weight: 700;
+    font-size: 20px;
+    border-radius: 15px;
+    text-decoration: none;
+    color: #fee000;
+}
+
+.brazilbutton:hover {
+    background: #135503;
+    transition: 0.4s;
+}
+
+.brazilbutton:active {
+    background: #176104;
     transition: 0.4s;
 }
 

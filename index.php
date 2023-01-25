@@ -23,7 +23,7 @@
                 <div class="content">
                     <h1 class="title">Noruega</h1>
                     <div class="text">A Noruega é um extenso país localizado na Escandinávia que abrange montanhas, geleiras, ilhas, lagos e vales rochosos. É considerado o país com a maior qualidade de vida do mundo, líder no ranking de IDH (Índice de Desenvolvimento Humano), e é um atrativo paradisíaco para turistas de todo o mundo.</div>
-                    <a href="norway.php" class="botao">
+                    <a href="norway.php" class="botao knowmore">
                         <!-- <span class="botao">Saiba mais</span> -->
                         Saiba mais
                     </a>
