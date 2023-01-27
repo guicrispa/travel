@@ -21,7 +21,7 @@
                 </label>
                 <div class="content">
                 <h1 class="title">Islândia</h1>
-                    <div class="text">A Islândia, país insular nórdico, tem uma paisagem exuberante, com vulcões, gêiseres, fontes termais e campos de lava. Suas imensas geleiras estão protegidas nos parques nacionais Vatnajökull e Snæfellsjökull. A maioria da população vive na capital, Reykjavik, abastecida por energia geotérmica e sede dos museus Nacional e Saga, que traçam a história viking da Islândia.</div>
+                    <div class="text">A Islândia, país insular nórdico, tem uma paisagem exuberante, com vulcões, gêiseres, fontes termais, campos de lava e imensas geleiras. A maioria da população vive na capital, Reykjavik, abastecida por energia geotérmica e sede da "Catedral da capital" e de museus que traçam a história viking da Islândia.</div>
                 </div>
             </div>
         </div>
