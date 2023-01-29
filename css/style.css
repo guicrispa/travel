@@ -180,6 +180,27 @@ header .logo_img {
     margin: 0 10px;
 }
 
+.norwaybutton {
+    background: #85061f;
+    padding: 5px 20px;
+    font-weight: 700;
+    font-size: 20px;
+    border-radius: 15px;
+    text-decoration: none;
+    color: #fff;
+}
+
+.norwaybutton:hover,
+.norwaybutton:focus-within {
+    background: #AE0A2B;
+    transition: 0.4s;
+}
+
+.norwaybutton:active {
+    background: #BA0C2F;
+    transition: 0.4s;
+}
+
 .icelandbutton {
     background: #02529C;
     padding: 5px 20px;
@@ -195,7 +216,8 @@ header .logo_img {
     transition: 0.4s;
 }
 
-.icelandbutton:active {
+.icelandbutton:active,
+.icelandbutton:focus-within {
     background: #0862b6;
     transition: 0.4s;
 }
@@ -215,21 +237,34 @@ header .logo_img {
     transition: 0.4s;
 }
 
-.brazilbutton:active {
+.brazilbutton:active,
+.brazilbutton:focus-within {
     background: #176104;
     transition: 0.4s;
 }
 
 /* section places*/
 
+#section1title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #A0C8F9;
+    border-top: 3px solid #1D2A3F;
+    padding-top: 60px;
+}
+
+#section1title h1 {
+    font-size: 35px;
+}
+
 #section1 {
     display: flex;
     justify-content: center;
     align-items: center;
     background: linear-gradient(#A0C8F9, #2e6fbe);
-    padding-top: 60px;
+    padding-top: 20px;
     scroll-behavior: smooth;
-    border-top: 3px solid #1D2A3F;
 }
 
 .container {
@@ -261,7 +296,8 @@ header .logo_img {
     border-radius: 4px;
 }
 
-.container .card:hover {
+.container .card:hover,
+.container .card:focus-within {
     height: 420px;
     /*height: 370px; em telas muito grandes*/
 }

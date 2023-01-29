@@ -36,8 +36,11 @@
             </a>
         </div>
     </section>
+    <section id="section1title">
+        <h1>Lugares insanos de lá que mais quero conhecer :)</h1>
+    </section>
     <section id="section1">
-        <div class="container">
+        <div class="container"> 
             <div class="card">
                 <div class="imgBox">
                     <img src="https://res.cloudinary.com/dlsuopwkn/image/upload/c_scale,h_3264,w_4928/v1671675718/preikestolen.jpg" alt="preikestolen">

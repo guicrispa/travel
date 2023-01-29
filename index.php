@@ -39,7 +39,7 @@
                 <div class="content">
                 <h1 class="title">Islândia</h1>
                     <div class="text">A Islândia, país insular nórdico, tem uma paisagem exuberante, com vulcões, gêiseres, fontes termais, campos de lava e imensas geleiras. A maioria da população vive na capital, Reykjavik, abastecida por energia geotérmica e sede da "Catedral da capital" e de museus que traçam a história viking da Islândia.</div>
-                    <a href="islandia.php" class="botao">
+                    <a href="islandia.php" class="botao knowmore">
                         <!-- <span class="botao">Saiba mais</span> -->
                         Saiba mais
                     </a>
@@ -55,7 +55,7 @@
                 <div class="content">
                     <h1 class="title">Brasil</h1>
                     <div class="text">O Brasil dispensa apresentações. No entanto, o que muitos de nós não exploramos é que há uma enorme diversidade paisagística e cultural em seus quatro cantos. O maior país da América do Sul estende-se da Bacia Amazônica, no norte, até as Cataratas do Iguaçu, no sul. Explore mais as diferentes regiões do nosso país abaixo.</div>
-                    <a href="brasil.php" class="botao">
+                    <a href="brasil.php" class="botao knowmore">
                         <!-- <span class="botao">Saiba mais</span> -->
                         Saiba mais
                     </a>
