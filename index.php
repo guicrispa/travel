@@ -54,7 +54,7 @@
                 </label>
                 <div class="content">
                     <h1 class="title">Brasil</h1>
-                    <div class="text">O Brasil dispensa apresentações. No entanto, o que muitos de nós não exploramos é que há uma enorme diversidade paisagística e cultural em seus quatro cantos. O maior país da América do Sul estende-se da Bacia Amazônica, no norte, até as Cataratas do Iguaçu, no sul. Explore mais as diferentes regiões do nosso país abaixo.</div>
+                    <div class="text">O Brasil dispensa apresentações. Porém, o que muitos de nós não exploramos é que há uma enorme diversidade paisagística e cultural em seus quatro cantos. O maior país da América do Sul estende-se da Bacia Amazônica, no norte, até às Cataratas do Iguaçu, no sul. Explore mais as diferentes regiões do nosso país abaixo.</div>
                     <a href="brasil.php" class="botao knowmore">
                         <!-- <span class="botao">Saiba mais</span> -->
                         Saiba mais

@@ -43,16 +43,16 @@
         <div class="container">
             <div class="card">
                 <div class="imgBox">
-                    <img src="https://res.cloudinary.com/dlsuopwkn/image/upload/c_scale,h_3264,w_4928/v1671675718/preikestolen.jpg" alt="preikestolen">
+                    <img src="https://res.cloudinary.com/dlsuopwkn/image/upload/c_scale,h_3264,w_4928/v1677121592/camposdojordao.jpg" alt="Campos do Jordão, SP">
                 </div>
                 <div class="content">
                     <h2>Campos do Jordão, SP</h2>
-                    <p>Também é conhecida como Pulpit Rock, Preikestolen é uma falésia de 604 metros de desnível que se ergue sobre o Fiorde de Lyse, em frente ao platô Kjerag, em Forsand, no sudoeste da Noruega.</p>
+                    <p>Campos do Jordão é um município montanhoso no interior do estado de SP. Considerada a cidade mais fria do estado, a "Suíça brasileira" se destaca pela arquitetura alemã e pela diversão.</p>
                 </div>
             </div>
             <div class="card">
                 <div class="imgBox">
-                    <img src="https://res.cloudinary.com/dlsuopwkn/image/upload/v1672024200/Trolltunga.jpg" alt="trolltunga">
+                    <img src="https://res.cloudinary.com/dlsuopwkn/image/upload/c_scale,h_3264,w_4928/v1677122151/canela.jpg" alt="Canela, RS">
                 </div>
                 <div class="content">
                     <h2>Canela, RS</h2>
@@ -62,7 +62,7 @@
             </div>
             <div class="card">
                 <div class="imgBox">
-                    <img src="https://res.cloudinary.com/dlsuopwkn/image/upload/c_scale,h_3264,w_4928/v1672024199/tromso.jpg" alt="Tromsø">
+                    <img src="https://res.cloudinary.com/dlsuopwkn/image/upload/c_scale,h_3264,w_4928/v1677121001/gramado.jpg" alt="Gramado, RS">
                 </div>
                 <div class="content">
                     <h2>Gramado, RS</h2>
@@ -72,7 +72,7 @@
 
             <div class="card">
                 <div class="imgBox">
-                    <img src="https://res.cloudinary.com/dlsuopwkn/image/upload/c_scale,h_3264,w_4928/v1672024197/kjeragbolten.jpg" alt="kjeragbolten">
+                    <img src="https://res.cloudinary.com/dlsuopwkn/image/upload/c_scale,h_3264,w_4928/v1677122294/maringa.jpg" alt="Maringá, SC">
                 </div>
                 <div class="content">
                     <h2>Maringá, SC</h2>
@@ -82,7 +82,7 @@
 
             <div class="card">
                 <div class="imgBox">
-                    <img src="https://res.cloudinary.com/dlsuopwkn/image/upload/c_scale,h_3264,w_4928/v1672024309/Atlanterhavsvegen.jpg" alt="Atlanterhavsvegen">
+                    <img src="https://res.cloudinary.com/dlsuopwkn/image/upload/c_scale,h_3264,w_4928/v1677122761/floripa.jpg" alt="Florianópolis, SC">
                 </div>
                 <div class="content">
                     <h2>Florianópolis, SC</h2>
@@ -92,7 +92,7 @@
 
             <div class="card">
                 <div class="imgBox">
-                    <img src="https://res.cloudinary.com/dlsuopwkn/image/upload/v1672321549/lofoten_soccerfield.png" alt="Lofoten Islands">
+                    <img src="https://res.cloudinary.com/dlsuopwkn/image/upload/c_scale,h_3264,w_4928/v1677123538/lencoismaranhenses.jpg" alt="Lençóis Maranhenses">
                 </div>
                 <div class="content">
                     <h2>Lençóis Maranhenses</h2>
@@ -102,20 +102,20 @@
 
             <div class="card">
                 <div class="imgBox">
-                    <img src="https://res.cloudinary.com/dlsuopwkn/image/upload/v1672321549/lofoten_soccerfield.png" alt="Lofoten Islands">
+                    <img src="https://res.cloudinary.com/dlsuopwkn/image/upload/c_scale,h_3264,w_4928/v1677122462/balneariocamboriu.jpg" alt="Balneário Camboirú - SC">
                 </div>
                 <div class="content">
-                    <h2>Balneário, SC</h2>
+                    <h2>Balneário C., SC</h2>
                     <p>Localizadas em Nordland e bem acima do círculo ártico, as Ilhas Lofoten têm paisagens incríveis, formadas pelos oceanos, picos acidentados, praias de areia branca e vilas pesqueiras.</p>
                 </div>
             </div>
 
             <div class="card">
                 <div class="imgBox">
-                    <img src="https://res.cloudinary.com/dlsuopwkn/image/upload/v1672321549/lofoten_soccerfield.png" alt="Lofoten Islands">
+                    <img src="https://res.cloudinary.com/dlsuopwkn/image/upload/c_scale,h_3264,w_4928/v1677123253/buzios.jpg" alt="Búzios, RJ">
                 </div>
                 <div class="content">
-                    <h2>Petrópolis, RJ</h2>
+                    <h2>Búzios, RJ</h2>
                     <p>Localizadas em Nordland e bem acima do círculo ártico, as Ilhas Lofoten têm paisagens incríveis, formadas pelos oceanos, picos acidentados, praias de areia branca e vilas pesqueiras.</p>
                 </div>
             </div>
