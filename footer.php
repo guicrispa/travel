@@ -51,7 +51,7 @@
     <p>
         <a title="Github Guilherme Crispim" href="https://github.com/guicrispa" target="_blank"><ion-icon name="logo-github"></ion-icon></a>
         <a title="Linkedin Guilherme Crispim" href="https://br.linkedin.com/in/guilherme-crispim" target="_blank"><ion-icon name="logo-linkedin"></ion-icon></a>
-        <a title="Instagram Guilherme Crispim" href="https://instagram.com/gui.crispaa" target="_blank"><ion-icon name="logo-instagram"></ion-icon></a>
+        <a title="Instagram Guilherme Crispim" href="https://instagram.com/guicrispaa" target="_blank"><ion-icon name="logo-instagram"></ion-icon></a>
         <a title="Behance Guilherme Crispim" href="https://www.behance.net/guilhermesilva77" target="_blank"><ion-icon name="logo-behance"></ion-icon></a>
         <a title="E-mail Guilherme Crispim" href="mailto:guicrispim1000@gmail.com" target="_blank"><ion-icon name="mail"></ion-icon></a>
     </p>
