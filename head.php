@@ -16,10 +16,11 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Guilherme Crispim - Site de lugares onde quero viajar usando HTML, CSS e JS">
+    <meta name="description" content="Guilherme Crispim - Site de lugares onde quero viajar usando HTML, CSS, JS e PHP">
     <title>Minhas futuras viagens</title>
     <link rel="stylesheet" href="css/style.css"> 
     <link rel="stylesheet" href="css/styleTela.css"> 
+    <link rel="stylesheet" href="css/styleMobile.css"> 
     <link rel="stylesheet" href="css/styleTablet.css"> 
     <link rel="stylesheet" href="css/countries.css"> 
     <link rel="icon" href="https://res.cloudinary.com/dlsuopwkn/image/upload/v1672401895/logoicon.png">
