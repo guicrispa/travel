@@ -56,8 +56,7 @@
                 </div>
                 <div class="content">
                     <h2>Canela, RS</h2>
-                    <p>Trolltunga é uma rocha horizontal esticada a 700 metros de altura, no sudoeste da Noruega. O nome significa Língua do Troll, pela semelhança da rocha com uma língua estendida.</p>
-
+                    <p>Canela é uma cidade da Serra Gaúcha com influência de colonos alemães. A cidade possui chalés de estilo bávaro, chocolateiros, exibições de luzes de Natal e uma colorida primavera.</p>
                 </div>
             </div>
             <div class="card">
@@ -72,10 +71,10 @@
 
             <div class="card">
                 <div class="imgBox">
-                    <img src="https://res.cloudinary.com/dlsuopwkn/image/upload/c_scale,h_3264,w_4928/v1677122294/maringa.jpg" alt="Maringá, SC">
+                    <img src="https://res.cloudinary.com/dlsuopwkn/image/upload/c_scale,h_3264,w_4928/v1677122294/maringa.jpg" alt="Maringá, PR">
                 </div>
                 <div class="content">
-                    <h2>Maringá, SC</h2>
+                    <h2>Maringá, PR</h2>
                     <p>Kjeragbolten é uma rocha de 5 m³, presa em uma fenda das montanhas Kjerag, conhecida por trilhas e escaladas, a 1.084 metros acima do fiorde Lysefjorden, localizada no sul da Noruega.</p>
                 </div>
             </div>
