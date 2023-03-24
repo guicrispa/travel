@@ -21,7 +21,7 @@
                 </label>
                 <div class="content">
                 <h1 class="title">Brasil</h1>
-                    <div class="text">O Brasil dispensa apresentações. No entanto, o que muitos de nós não exploramos é que há uma enorme diversidade paisagística e cultural em seus quatro cantos. O maior país da América do Sul estende-se da Bacia Amazônica, no norte, até as Cataratas do Iguaçu, no sul. Explore mais a riqueza de diferentes lugares ao redor do nosso país abaixo.</div>
+                    <div class="text">O Brasil dispensa apresentações. No entanto, o que muitos de nós não exploramos é que há uma enorme diversidade paisagística e cultural em seus quatro cantos. O maior país da América do Sul estende-se da Bacia Amazônica, no norte, até às colônias europeias, no sul. Explore mais a riqueza de diferentes lugares ao redor do nosso país abaixo.</div>
                 </div>
             </div>
         </div>
@@ -65,7 +65,7 @@
                 </div>
                 <div class="content">
                     <h2>Gramado, RS</h2>
-                    <p>Tromsø, a linda cidade de incríveis fenômenos da natureza como a Aurora Boreal e do sol da meia-noite, é a maior cidade do norte da Noruega e está localizada ao leste da ilha de Tromsøya.</p>
+                    <p>Gramado, assim como Canela, é uma cidade da Serra Gaúcha influenciada por colonos alemães. A 'Europa do Brasil' se destaca pelo clima, gastronomia, ruas, hotelaria, arquitetura, serviços e produtos.</p>
                 </div>
             </div>
 
@@ -75,7 +75,7 @@
                 </div>
                 <div class="content">
                     <h2>Maringá, PR</h2>
-                    <p>Kjeragbolten é uma rocha de 5 m³, presa em uma fenda das montanhas Kjerag, conhecida por trilhas e escaladas, a 1.084 metros acima do fiorde Lysefjorden, localizada no sul da Noruega.</p>
+                    <p>Maringá é uma linda cidade que se destaca pela sua qualidade de vida acima da média no Brasil. A 'cidade canção' já foi eleita algumas vezes como "a melhor cidade pra se viver no país".</p>
                 </div>
             </div>
 
@@ -85,7 +85,7 @@
                 </div>
                 <div class="content">
                     <h2>Florianópolis, SC</h2>
-                    <p>Atlanterhavsvegen, a Estrada do Atlântico, é uma experiência única que fica no Norte da Noruega com pontes que se arqueiam entre as ilhotas e recifes ao longo da áspera Baía de Hustadvika.</p>
+                    <p>'Floripa' é a capital de SC, na região Sul do Brasil. A "Ilha da Magia" se destaca pelas praias, morros, dunas, lagoas e 'herança' dos colonizadores portugueses na arquitetura e gastronomia.</p>
                 </div>
             </div>
 
@@ -95,7 +95,7 @@
                 </div>
                 <div class="content">
                     <h2>Lençóis Maranhenses</h2>
-                    <p>Localizadas em Nordland e bem acima do círculo ártico, as Ilhas Lofoten têm paisagens incríveis, formadas pelos oceanos, picos acidentados, praias de areia branca e vilas pesqueiras.</p>
+                    <p>A região dos 'Lençóis Maranhenses' fica no litoral do Maranhão e é o destino perfeito para aventura e contemplação da natureza. A melhor época do ano para visitas vai de maio a Agosto.</p>
                 </div>
             </div>
 
@@ -105,7 +105,7 @@
                 </div>
                 <div class="content">
                     <h2>Balneário C., SC</h2>
-                    <p>Localizadas em Nordland e bem acima do círculo ártico, as Ilhas Lofoten têm paisagens incríveis, formadas pelos oceanos, picos acidentados, praias de areia branca e vilas pesqueiras.</p>
+                    <p>Balneário Camboriú, em SC, é um dos principais destinos turísticos do Brasil e da América do Sul. A cidade possui um comércio forte todos os dias do ano, praias e um estilo de vida diferenciado.</p>
                 </div>
             </div>
 
@@ -115,7 +115,7 @@
                 </div>
                 <div class="content">
                     <h2>Búzios, RJ</h2>
-                    <p>Localizadas em Nordland e bem acima do círculo ártico, as Ilhas Lofoten têm paisagens incríveis, formadas pelos oceanos, picos acidentados, praias de areia branca e vilas pesqueiras.</p>
+                    <p>Búzios é o destino de praia mais charmoso do sudeste brasileiro, que está localizada a 170 km do RJ, na Região dos Lagos. Com mais de 20 praias, é um local de férias perfeito para praianos.</p>
                 </div>
             </div>
         </div>
