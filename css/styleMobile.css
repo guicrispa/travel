@@ -1,3 +1,14 @@
 @media (min-width: 320px) and (max-width: 480px){
-    
+    #main {
+        background-position-x: 1700px;
+    }
+
+    .menu-mobile {
+        display: block;
+    }
+
+    .countries li a{
+        display: none;
+        list-style: none;
+    }
 }

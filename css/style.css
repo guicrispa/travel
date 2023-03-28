@@ -41,6 +41,10 @@
     position: relative;
 }
 
+.menu-mobile {
+    display: none;
+}
+
 #main {
     background-image: url('https://res.cloudinary.com/dlsuopwkn/image/upload/v1671675718/preikestolen.jpg');
 }

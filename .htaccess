@@ -1,4 +1,22 @@
-RewriteEngine on
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteCond %{REQUEST_FILENAME}\.php -f
-RewriteRule ^(.*)$ $1.php
+# <IfModule mod_rewrite.c>
+#     RewriteBase /
+#     RewriteCond %{THE_REQUEST} ^[A-Z]{3,}\s([^.]+)\.html [NC]
+#     RewriteRule ^ %1 [R,L]
+#     RewriteCond %{REQUEST_FILENAME} !-d
+#     RewriteCond %{REQUEST_FILENAME}.html -f
+#     RewriteRule ^(.*?)/?$ $1.html [L]
+
+#     RewriteBase /
+#     RewriteCond %{THE_REQUEST} ^[A-Z]{3,}\s([^.]+)\.php [NC]
+#     RewriteRule ^ %1 [R,L]
+#     RewriteCond %{REQUEST_FILENAME} !-d
+#     RewriteCond %{REQUEST_FILENAME}.php -f
+#     RewriteRule ^(.*?)/?$ $1.php [L]
+
+#     RewriteBase /
+#     RewriteCond %{THE_REQUEST} ^[A-Z]{3,}\s([^.]+)\.shtml [NC]
+#     RewriteRule ^ %1 [R,L]
+#     RewriteCond %{REQUEST_FILENAME} !-d
+#     RewriteCond %{REQUEST_FILENAME}.shtml -f
+#     RewriteRule ^(.*?)/?$ $1.shtml [L]
+# </IfModule>
